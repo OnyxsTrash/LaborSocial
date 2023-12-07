@@ -10,6 +10,9 @@
     <Compile Update="PeopleMaintenance.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="SchoolManintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="TutorMaintenance.vb">
       <SubType>Form</SubType>
     </Compile>

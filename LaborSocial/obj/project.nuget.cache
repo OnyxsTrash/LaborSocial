@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+mi51ZYoLKRAJqt4qLRJgk6a56y0rT6izzVXO0RphO2Q6/UeHlUpzxy58PHUkANv/8jLjtIG3RXx+DtLUTsqZg==",
+  "dgSpecHash": "6oJbR534fE47XSsWDGCaUAUA0yoTRvt6Rpg3/GK6MydklULc8TQglzTcBsOcoInfQAfQ7en3lBokCEskffOKCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BlackOnyxs\\Documents\\Uni\\DS-VIII\\Laboratorios\\LaborSocial\\LaborSocial\\LaborSocial.vbproj",
+  "projectFilePath": "C:\\Users\\BlackOnyxs\\Documents\\Uni\\DS-VIII\\proyecto\\LaborSocial\\LaborSocial\\LaborSocial.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\BlackOnyxs\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\BlackOnyxs\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

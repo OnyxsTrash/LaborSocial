@@ -8,4 +8,9 @@
         Me.Hide()
         TutorMaintenance.Show()
     End Sub
+
+    Private Sub btnFaculty_Click(sender As Object, e As EventArgs) Handles btnFaculty.Click
+        Me.Hide()
+        SchoolManintenance.Show()
+    End Sub
 End Class
