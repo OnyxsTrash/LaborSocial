@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LaborSocial": {
+      "commandName": "Project",
+      "sqlDebugging": true
+    }
+  }
+}
