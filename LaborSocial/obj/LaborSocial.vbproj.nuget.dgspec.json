@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BlackOnyxs\\Documents\\Uni\\DS-VIII\\Laboratorios\\LaborSocial\\LaborSocial\\LaborSocial.vbproj": {}
+    "C:\\Users\\BlackOnyxs\\Documents\\Uni\\DS-VIII\\proyecto\\LaborSocial\\LaborSocial\\LaborSocial.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\BlackOnyxs\\Documents\\Uni\\DS-VIII\\Laboratorios\\LaborSocial\\LaborSocial\\LaborSocial.vbproj": {
+    "C:\\Users\\BlackOnyxs\\Documents\\Uni\\DS-VIII\\proyecto\\LaborSocial\\LaborSocial\\LaborSocial.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BlackOnyxs\\Documents\\Uni\\DS-VIII\\Laboratorios\\LaborSocial\\LaborSocial\\LaborSocial.vbproj",
+        "projectUniqueName": "C:\\Users\\BlackOnyxs\\Documents\\Uni\\DS-VIII\\proyecto\\LaborSocial\\LaborSocial\\LaborSocial.vbproj",
         "projectName": "LaborSocial",
-        "projectPath": "C:\\Users\\BlackOnyxs\\Documents\\Uni\\DS-VIII\\Laboratorios\\LaborSocial\\LaborSocial\\LaborSocial.vbproj",
+        "projectPath": "C:\\Users\\BlackOnyxs\\Documents\\Uni\\DS-VIII\\proyecto\\LaborSocial\\LaborSocial\\LaborSocial.vbproj",
         "packagesPath": "C:\\Users\\BlackOnyxs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BlackOnyxs\\Documents\\Uni\\DS-VIII\\Laboratorios\\LaborSocial\\LaborSocial\\obj\\",
+        "outputPath": "C:\\Users\\BlackOnyxs\\Documents\\Uni\\DS-VIII\\proyecto\\LaborSocial\\LaborSocial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BlackOnyxs\\AppData\\Roaming\\NuGet\\NuGet.Config",
