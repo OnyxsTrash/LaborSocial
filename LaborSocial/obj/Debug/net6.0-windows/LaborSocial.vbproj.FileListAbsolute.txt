@@ -53,3 +53,4 @@ C:\Users\BlackOnyxs\Documents\Uni\DS-VIII\proyecto\LaborSocial\LaborSocial\obj\D
 C:\Users\BlackOnyxs\Documents\Uni\DS-VIII\proyecto\LaborSocial\LaborSocial\obj\Debug\net6.0-windows\LaborSocial.genruntimeconfig.cache
 C:\Users\BlackOnyxs\Documents\Uni\DS-VIII\proyecto\LaborSocial\LaborSocial\obj\Debug\net6.0-windows\ref\LaborSocial.dll
 C:\Users\BlackOnyxs\Documents\Uni\DS-VIII\proyecto\LaborSocial\LaborSocial\obj\Debug\net6.0-windows\LaborSocial.SchoolManintenance.resources
+C:\Users\BlackOnyxs\Documents\Uni\DS-VIII\proyecto\LaborSocial\LaborSocial\obj\Debug\net6.0-windows\LaborSocial.CareerMaintenance.resources

@@ -13,4 +13,9 @@
         Me.Hide()
         SchoolManintenance.Show()
     End Sub
+
+    Private Sub btnCareer_Click(sender As Object, e As EventArgs) Handles btnCareer.Click
+        Me.Hide()
+        CareerMaintenance.Show()
+    End Sub
 End Class
